@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 透明颜色 -->
+    <color name="transparent">#00000000</color>
+    <color name="AllBackBlack">#182125</color>
+    <!-- 状态栏颜色 -->
+    <color name="Status_Bar">#0E1417</color>
+    <color name="GoldenColor">#e2b85f</color>
+    <color name="list_bac">#222d34</color>
+    <color name="LineColor">#434a4d</color>
+
+    <!-- 导航栏文字颜色 -->
+    <color name="tab_text_select">#b99a59</color>
+    <color name="tab_text_unselect">#999999</color>
+
+    <color name="lay_pos1">#191f26</color>
+    <color name="lay_pos2">#1b2830</color>
+
+    <!-- 顶部搜索栏颜色 -->
+    <color name="Search_Bar">#BFBFBF</color>
+    <color name="blue">#0099FF</color>
+    <color name="line">#333333</color>
+    <color name="line2">#E2E2E2</color>
+    <color name="EditTextHint">#7E8182</color>
+    <!-- 输入框提示 -->
+    <color name="EditText_Hint">#999999</color>
+    <!-- 消息副标题颜色 -->
+    <color name="Message_Text">#666666</color>
+    <color name="Text_Translate">#CCCCCC</color>
+
+    <!-- TAB标签颜色 -->
+    <color name="tab_textColor_selected">#333333</color>
+    <color name="tab_textColor_unselected">#999999</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#494949</color>
+    <color name="gray2">#E9E9E9</color>
+    <color name="pink">#FFE4E4</color>
+    <color name="red">#ff0000</color>
+    <color name="t_green">#ECFFE3</color>
+    <color name="green">#33CC00</color>
+    <color name="oranger">#F49417</color>
+
+    <color name="qyitation_left">#CCCCCC</color>
+    <color name="qyitation_right">#E6E6E6</color>
+
+    <color name="white_59">#59ffffff</color>
+    <color name="bac_menu">#343434</color>
+
+    <color name="magenta">#EC288D</color>
+    <color name="violets">#AA2CF3</color>
+    <color name="turquoise">#28CAAD</color>
+    <color name="aqua">#28C0CA</color>
+    <color name="yellow">#F2C62B</color>
+
+    <color name="actdialog">#434a4d</color>
+
+</resources>
