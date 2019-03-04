@@ -2,3 +2,4 @@
 RecyclerView嵌套RecyclerView点击事件遇到取值错乱的问题
 其实问题根本就是咱们没有处理好被嵌套的那层recycleview的position
 那么解决思路也很简单,想办法把被嵌套的那层recycleview的position传出来即可
+简书介绍https://www.jianshu.com/p/eab9d2019cda
